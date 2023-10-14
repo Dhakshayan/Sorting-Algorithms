@@ -1,5 +1,5 @@
 # Sorting-Algorithms
-<h3>Avaialable Sorting Alogorithms</h3>
+<h3>Avaialable Sorting Algorithms:</h3>
 <ul>
   <li>Bubble Sort</li>
   <li>Selection Sort</li>
